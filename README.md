@@ -13,3 +13,9 @@ Objectives
 Identify the principles for architecting highly available applications.
 Determine the benefits of using an Application Load Balancer.
 Demonstrate how to use Auto Scaling groups with Elastic Load Balancing and health monitoring.
+# Computing Solutions
+Simulated Business Scenario The school server that runs the scheduling solution needs more memory. Help the school to vertically scale their Amazon EC2 instance.
+Objectives
+Describe Amazon EC2 instance families and instance types.
+Describe horizontal and vertical scaling.
+Recognize options for connecting to Amazon EC2 instances.
