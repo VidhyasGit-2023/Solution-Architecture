@@ -19,3 +19,10 @@ Objectives
 Describe Amazon EC2 instance families and instance types.
 Describe horizontal and vertical scaling.
 Recognize options for connecting to Amazon EC2 instances.
+# First NoSQL Database
+Simulated Business Scenario Help implement a NoSQL database to develop new features for the city's streaming entertainment service.
+Objectives
+Identify the different uses of common purpose-built databases.
+Determine the features and benefits of Amazon DynamoDB.
+Explore how to interact with the elements and attributes of a DynamoDB database.
+Demonstrate how to set up a NoSQL database in DynamoDB.
