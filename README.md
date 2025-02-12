@@ -26,3 +26,10 @@ Identify the different uses of common purpose-built databases.
 Determine the features and benefits of Amazon DynamoDB.
 Explore how to interact with the elements and attributes of a DynamoDB database.
 Demonstrate how to set up a NoSQL database in DynamoDB.
+# Networking Concepts
+Simulated Business Scenario Help the bank set up a secure networking environment that allows communication between resources and the internet.
+Objectives
+Define key features of VPCs, subnets, internet gateways, and route tables.
+Identify the benefits of using VPCs.
+Determine the basics of CIDR block notation and IP addressing.
+Describe how VPC traffic is routed and secured by using gateways, network access control lists, and security groups.
