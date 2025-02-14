@@ -33,3 +33,9 @@ Define key features of VPCs, subnets, internet gateways, and route tables.
 Identify the benefits of using VPCs.
 Determine the basics of CIDR block notation and IP addressing.
 Describe how VPC traffic is routed and secured by using gateways, network access control lists, and security groups.
+# Core Security Concepts
+Simulated Business Scenario Help improve security at the city's stock exchange by ensuring that support engineers can perform only authorized actions.
+Objectives
+Identify the IAM creation process and the difference between IAM users, roles, and groups.
+Identify the structure and components of IAM policies.
+Identify the AWS Shared Responsibility Model and compliance programs.
