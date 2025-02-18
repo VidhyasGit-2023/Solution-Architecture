@@ -39,3 +39,10 @@ Objectives
 Identify the IAM creation process and the difference between IAM users, roles, and groups.
 Identify the structure and components of IAM policies.
 Identify the AWS Shared Responsibility Model and compliance programs.
+# Connecting VPCs
+Simulated Business Scenario The city's marketing team wants separate virtual private clouds (VPCs) for each department, which also allows communication between the VPCs.
+Objectives
+Determine how VPC peering works within Amazon VPC.
+Identify the steps to establish a VPC peering connection.
+Demonstrate how to create a peering connection between two VPCs.
+Demonstrate how to establish a peering connection between VPCs by using a specific subnet.
