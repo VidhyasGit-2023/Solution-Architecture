@@ -46,3 +46,10 @@ Determine how VPC peering works within Amazon VPC.
 Identify the steps to establish a VPC peering connection.
 Demonstrate how to create a peering connection between two VPCs.
 Demonstrate how to establish a peering connection between VPCs by using a specific subnet.
+# File Systems in the Cloud
+Simulated Business Scenario Help the city's pet modeling agency share file data to its branches without provisioning or managing storage.
+Objectives
+Compare the different storage options available on AWS.
+Identify the key features and benefits of Amazon EFS.
+Determine business use cases for Amazon EFS.
+Demonstrate how to configure Amazon EFS endpoints to access centralized storage.
