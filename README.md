@@ -53,3 +53,9 @@ Compare the different storage options available on AWS.
 Identify the key features and benefits of Amazon EFS.
 Determine business use cases for Amazon EFS.
 Demonstrate how to configure Amazon EFS endpoints to access centralized storage.
+# Auto-Healing and Scaling Applications
+Simulated Business Scenario Help the city's gaming cafe implement auto-healing servers and restrict users to a specific provisioning capacity.
+Objectives
+Determine the auto-healing and scaling capabilities provided by Auto Scaling groups.
+Demonstrate how to create an Auto Scaling group with strict resource boundaries.
+Demonstrate how to configure an Auto Scaling group to respond to a time-based event.
