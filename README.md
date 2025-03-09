@@ -1,5 +1,11 @@
 # Solution-Architecture
 Practice building highly efficient solutions
+# Cloud First Steps
+Simulated Business Scenario The island's stabilization system is failing and needs increased reliability and availability for its computational modules.
+Objectives
+Identify AWS infrastructure benefits.
+Describe AWS Regions and Availability Zones.
+Demonstrate how to deploy Amazon EC2 instances into multiple Availability Zones.
 # Database-in-Practice
 Simulated Business Scenario Improve the insurance company's relational database operations, performance, and availability.
 Objectives
