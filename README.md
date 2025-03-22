@@ -65,3 +65,8 @@ Objectives
 Determine the auto-healing and scaling capabilities provided by Auto Scaling groups.
 Demonstrate how to create an Auto Scaling group with strict resource boundaries.
 Demonstrate how to configure an Auto Scaling group to respond to a time-based event.
+# Cloud Economics
+Simulated Business Scenario The city's surf shop wants a cost estimate for an architecture with variable server resources for its web store.
+Objectives
+Identify how pricing estimates are obtained.
+Demonstrate how to use the AWS Pricing Calculator to estimate the price of an AWS architecture.
